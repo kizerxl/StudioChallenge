@@ -1,0 +1,6 @@
+framework module Pods_StudioChallenge {
+  umbrella header "Pods-StudioChallenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
